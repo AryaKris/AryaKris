@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]()
+![](https://github.com/AryaKris/AryaKris/blob/main/assets/giphy.gif)
 
 
 <!--
