@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-1MSVKRopegDjYONwdF" height="100" /></a>
+
 <!--
 **AryaKris/AryaKris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
