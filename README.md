@@ -1,5 +1,7 @@
 ### Hi there 👋
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://giphy.com/embed/1MSVKRopegDjYONwdF" height="100" /></a>
+![Alt Text](https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-1MSVKRopegDjYONwdF)
+
+
 
 
 <!--
