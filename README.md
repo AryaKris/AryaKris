@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Alt Text](https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-1MSVKRopegDjYONwdF)
 
 
 
